@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714588775 source:c:\users\t460\desktop\_2000.reverse_prefix_of_word\reverse_prefix_of_word\main.cpp
+	<iostream>
+	<algorithm>
+
